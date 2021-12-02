@@ -1,0 +1,76 @@
+{
+   "quizz":[
+      {
+         "id":1,
+         "title": "Americaaaaa",
+         "questions":[
+            {
+               "question": "En quelle année est mort le 35ème Président des États-Unis, J-F Kennedy ?",
+               "answers": [
+                  "1963",
+                  "1960",
+                  "1959",
+                  "1965"
+                 ],
+                "correct_answer": "1963"
+            },
+            {
+              "question": "Quel était le nom de la mission au cours de laquelle Neil Armstrong a effectué les premiers pas sur la Lune en 1969 ?",
+               "answers": [
+                  "Apollo 6",
+                  "Apollo 9",
+                  "Apollo 11",
+                  "Apollo 13"
+                 ],
+                "correct_answer": "Apollo 11"
+            },
+            {
+              "question": "Quel acteur a joué le rôle principal dans le film Forrest Gump ?",
+               "answers": [
+                  "Gary Sinise",
+                  "Tom Hanks",
+                  "Mark Harmon",
+                  "Harrison Ford"
+                 ],
+              "correct_answer": "Tom Hanks"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "title": "C'est la France",
+         "questions":[
+            {
+               "question": " Complétez cette célèbre citation de Jean-Paul Sartre : « Dans la vie, on ne fait pas ce que l’on veut mais … »",
+               "answers": [
+                  "On est libre de l'accepter ou non",
+                  "On est responsable de ce que l'on est",
+                  "On décide ce que l'on devient",
+                  "On apprend à s'adapter à tout"
+                 ],
+                "correct_answer": "On est responsable de ce que l'on est"
+            },
+            {
+              "question": "Lequel de ces hommes politiques n’a jamais été ministre ?",
+               "answers": [
+                  "Nicolas Sarkozy",
+                  "Francois Hollande",
+                  "Emmanuel Macron",
+                  "Jacques Chirac"
+                 ],
+              "correct_answer": "Francois Hollande"
+            },
+            {
+              "question": "Lequel de ces français a remporté le tournoi de tennis Roland-Garros ?",
+               "answers": [
+                  "Richard Gasquet",
+                  "Mary Pierce",
+                  "Jo Wilfried Tsonga",
+                  "Amélie Mauresmo"
+                 ],
+              "correct_answer": "Mary Pierce"
+            }
+         ]
+      }
+   ]
+}
